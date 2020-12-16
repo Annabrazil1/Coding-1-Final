@@ -1,20 +1,37 @@
 .navbar-brand{
-    height: 10px;
-    
+    outline-style: solid;
+    outline-width: 4px;
+    outline-color: darkslategray;
+}
+.footer{
+    position:sticky;
+    padding-top: 400px;
+    padding: 500px;
+}
 
+.about-me{
+    font-style: oblique;
+    color:darkslategray;
+    font-size: 30px;
 }
 
 
 
 
 
-
-h1{ font font-size: 20px;
-
+h1{ font-size: 20px;
+font-style: oblique;
+background-color:beige;
 }
 
-p{ font-style: italic;
+p{ font-size: 20px;
+    font-style: initial;
+    background-color: burlywood;
+}
 
+body{font-size: 20px;
+    font-style:inherit;
+    background-color: lightgray;
 }
 
 
